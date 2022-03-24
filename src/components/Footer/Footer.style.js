@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const Wrapper = styled.footer`
   background-color: gray;
@@ -6,4 +6,4 @@ export const Wrapper = styled.footer`
 
 export const Copyrights = styled.p`
   color:  white;
-`
+`;
